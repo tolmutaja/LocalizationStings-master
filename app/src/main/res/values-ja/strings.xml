@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ローカライゼーション文字列</string>
+    <string name="title">動物パレード</string>
+    <string name="animal_name_dog">猫の名前</string>
+    <string name="animal_name_cat">犬の名前</string>
+    <string name="animal_name_snake">ヘビの名前</string>
+    <string name="button">ボタン</string>
+</resources>

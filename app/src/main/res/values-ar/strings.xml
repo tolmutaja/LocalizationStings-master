@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سلسلة الترجمة</string>
+    <string name="animal_name_cat">اسم القطط</string>
+    <string name="animal_name_dog">الكلاب اسم</string>
+    <string name="animal_name_snake">اسم الثعابين</string>
+    <string name="title">موكب الحيوان</string>
+    <string name="button">زر</string>
+</resources>

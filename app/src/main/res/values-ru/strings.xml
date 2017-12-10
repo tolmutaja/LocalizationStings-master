@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">строка локализации</string>
+    <string name="animal_name_cat">имя змей</string>
+    <string name="animal_name_dog">Имя собаки</string>
+    <string name="animal_name_snake">имя кошки</string>
+    <string name="title">парад животных</string>
+    <string name="button">кнопка</string>
+</resources>
